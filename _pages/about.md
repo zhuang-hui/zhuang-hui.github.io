@@ -11,3 +11,7 @@ I am a first-year Ph.D. student at the [Khoury College of Computer Sciences](htt
 My research interests primarily focus on the Cyber Physical System Security, exploring potential vulnerabilities and privacy leakage risks in sensors through side-channel analysis. My goal is to enhance the security and privacy of Cyber Physical Systems.
 
 
+## Publications
+
+{% bibliography publications.bib %}
+
