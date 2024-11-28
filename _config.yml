@@ -21,18 +21,18 @@ repository               : "zhuang-hui/zhuang-hui.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "HuiZhuang.png"
+  name             : "Hui Zhuang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Student in Computer Security"
+  location         : "Boston, MA"
+  employer         : "Northeastern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhuang.hu@northeastern.du" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=3T62e3IAAAAJ&gmla=AL3_zijyfoS7WMXl92kIFiZVnSHZeI_pb_p-lzuzzgWfRVDMWXBSex2Bt0ja66Jo2IYI0M9CsuM72IbAXMYuWESMWHdR_d0N8e3D0NTmmlbOegNzednS7pg"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
