@@ -13,68 +13,35 @@ My research interests primarily focus on the Cyber Physical System Security, exp
 
 ## Publications
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    ### [IEEE SP'22] AccEar: Accelerometer Acoustic Eavesdropping with Unconstrained Vocabulary
-    
-    **Pengfei Hu, Hui Zhuang, Panneer Selvam Santhalingam, Riccardo Spolaor, Parth Pathak, Guoming Zhang, Xiuzhen Cheng**
-    
-    *2022 IEEE Symposium on Security and Privacy (SP)*
-  </div>
-  <div style="margin-left: 20px;">
-    [Paper](https://doi.org/10.1109/SP46214.2022.9833716)
-  </div>
-</div>
+### [IEEE SP'22] AccEar: Accelerometer Acoustic Eavesdropping with Unconstrained Vocabulary
+**Pengfei Hu, Hui Zhuang, Panneer Selvam Santhalingam, Riccardo Spolaor, Parth Pathak, Guoming Zhang, Xiuzhen Cheng**  
+*2022 IEEE Symposium on Security and Privacy (SP)*  
+[Paper](https://doi.org/10.1109/SP46214.2022.9833716)
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    ### [Applied Intelligence 2021] Modeling polypharmacy effects with heterogeneous signed graph convolutional networks
-    
-    **Taoran Liu, Jiancong Cui, Hui Zhuang, Hong Wang**
-    
-    *Applied Intelligence, 2021, Vol. 51, pp. 8316–8333*
-  </div>
-  <div style="margin-left: 20px;">
-    [Paper](https://link.springer.com/article/10.1007/s10489-021-02296-4)
-  </div>
-</div>
+---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    ### [Journal of Biomedical Informatics 2020] Chinese medical named entity recognition based on multi-granularity semantic dictionary and multimodal tree
-    
-    **Caiyu Wang, Hong Wang, Hui Zhuang, Wei Li, Shu Han, Hui Zhang, Luhe Zhuang**
-    
-    *Journal of Biomedical Informatics, 2020, Vol. 111, pp. 103583*
-  </div>
-  <div style="margin-left: 20px;">
-    [Paper](https://www.sciencedirect.com/science/article/pii/S1532046420302112)
-  </div>
-</div>
+### [Applied Intelligence 2021] Modeling polypharmacy effects with heterogeneous signed graph convolutional networks
+**Taoran Liu, Jiancong Cui, Hui Zhuang, Hong Wang**  
+*Applied Intelligence, 2021, Vol. 51, pp. 8316–8333*  
+[Paper](https://link.springer.com/article/10.1007/s10489-021-02296-4)
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    ### [PLOS ONE 2020] A physical model inspired density peak clustering
-    
-    **Hui Zhuang, Jiancong Cui, Taoran Liu, Hong Wang**
-    
-    *PLOS ONE, 2020, Vol. 15, No. 9, e0239406*
-  </div>
-  <div style="margin-left: 20px;">
-    [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239406)
-  </div>
-</div>
+---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    ### [IEEE Access 2020] Semi-Supervised Gated Spectral Convolution on a Directed Signed Network
-    
-    **Jiancong Cui, Hui Zhuang, Taoran Liu, Hong Wang**
-    
-    *IEEE Access, 2020, Vol. 8, pp. 49705-49716*
-  </div>
-  <div style="margin-left: 20px;">
-    [Paper](https://ieeexplore.ieee.org/abstract/document/9031355)
-  </div>
-</div>
+### [Journal of Biomedical Informatics 2020] Chinese medical named entity recognition based on multi-granularity semantic dictionary and multimodal tree
+**Caiyu Wang, Hong Wang, Hui Zhuang, Wei Li, Shu Han, Hui Zhang, Luhe Zhuang**  
+*Journal of Biomedical Informatics, 2020, Vol. 111, pp. 103583*  
+[Paper](https://www.sciencedirect.com/science/article/pii/S1532046420302112)
 
+---
+
+### [PLOS ONE 2020] A physical model inspired density peak clustering
+**Hui Zhuang, Jiancong Cui, Taoran Liu, Hong Wang**  
+*PLOS ONE, 2020, Vol. 15, No. 9, e0239406*  
+[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239406)
+
+---
+
+### [IEEE Access 2020] Semi-Supervised Gated Spectral Convolution on a Directed Signed Network
+**Jiancong Cui, Hui Zhuang, Taoran Liu, Hong Wang**  
+*IEEE Access, 2020, Vol. 8, pp. 49705-49716*  
+[Paper](https://ieeexplore.ieee.org/abstract/document/9031355)
