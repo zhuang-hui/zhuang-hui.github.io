@@ -20,21 +20,21 @@ Pengfei Hu, **Hui Zhuang**, Panneer Selvam Santhalingam, Riccardo Spolaor, Parth
 
 ---
 
-**Modeling polypharmacy effects with heterogeneous signed graph convolutional networks**  
+**Modeling Polypharmacy Effects with Heterogeneous Signed Graph Convolutional Networks**  
 Taoran Liu, Jiancong Cui, **Hui Zhuang**, Hong Wang  
 *Applied Intelligence, 2021, Vol. 51, pp. 8316–8333*  
 [[Paper](https://link.springer.com/article/10.1007/s10489-021-02296-4)]
 
 ---
 
-**Chinese medical named entity recognition based on multi-granularity semantic dictionary and multimodal tree**  
+**Chinese Medical Named Entity Recognition based on Multi-Granularity Semantic Dictionary and Multimodal Tree**  
 Caiyu Wang, Hong Wang, **Hui Zhuang**, Wei Li, Shu Han, Hui Zhang, Luhe Zhuang    
 *Journal of Biomedical Informatics, 2020, Vol. 111, pp. 103583*  
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1532046420302112)]
 
 ---
 
-**A physical model inspired density peak clustering**  
+**A Physical Model Inspired Density Peak Clustering**  
 **Hui Zhuang**, Jiancong Cui, Taoran Liu, Hong Wang  
 *PLOS ONE, 2020, Vol. 15, No. 9, e0239406*  
 [[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239406)]
