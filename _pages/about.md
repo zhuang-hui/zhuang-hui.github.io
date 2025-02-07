@@ -14,14 +14,14 @@ My research interests primarily focus on the Cyber Physical System Security, exp
 ## Publications
 
 **AccEmo: Accelerometer Based Human Emotion Recognition for Eyewear Devices**  
-**Hui Zhuang**, Yihang Zhang, Yanni Yang, Guoming Zhang, Zhe Chen, Riccardo Spolaor, Xiuzhen Cheng, Prasant Mohapatra, Pengfei Hu 
+**Hui Zhuang**, Yihang Zhang, Yanni Yang, Guoming Zhang, Zhe Chen, Riccardo Spolaor, Xiuzhen Cheng, Prasant Mohapatra, Pengfei Hu  
 *IEEE Transactions on Mobile Computing*  
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10839591)]
 
 ---
 
 **AccEar: Accelerometer Acoustic Eavesdropping With Unconstrained Vocabulary**  
-Pengfei Hu, **Hui Zhuang**, Panneer Selvam Santhalingam, Riccardo Spolaor, Parth Pathak, Guoming Zhang, Xiuzhen Cheng
+Pengfei Hu, **Hui Zhuang**, Panneer Selvam Santhalingam, Riccardo Spolaor, Parth Pathak, Guoming Zhang, Xiuzhen Cheng  
 *2022 IEEE Symposium on Security and Privacy (SP)*  
 [[Paper](https://doi.org/10.1109/SP46214.2022.9833716)]
 
