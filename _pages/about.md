@@ -14,7 +14,7 @@ My research interests primarily focus on the Cyber Physical System Security, exp
 ## Publications
 
 **RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection**  
-**Hui Zhuang**, Yan Long, Kevin Fu 
+**Hui Zhuang**, Yan Long, Kevin Fu  
 *The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025).* 
 
 ---
