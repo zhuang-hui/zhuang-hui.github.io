@@ -14,13 +14,13 @@ My research interests primarily focus on the Cyber Physical System Security, exp
 ## Publications
 
 **RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection**  
-**Hui Zhuang**, Yan Long, Kevin Fu
+**Hui Zhuang**, Yan Long, Kevin Fu 
 *The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025).* 
 
 ---
 
 **WinSpy: Cross-window Side-channel Attacks on Android's Multi-window Mode**  
-Zeng Li, Chuan Yan, Liuhuo Wan, **Hui Zhuang**, Pengfei Hu, Guangdong Bai, Yiran Shen 
+Zeng Li, Chuan Yan, Liuhuo Wan, **Hui Zhuang**, Pengfei Hu, Guangdong Bai, Yiran Shen  
 *The 31st Annual International Conference on Mobile Computing and Networking (Mobicom 2025)*  
 <!-- [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10839591)] -->
 
