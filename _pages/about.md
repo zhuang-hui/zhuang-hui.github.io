@@ -6,18 +6,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student at the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), [Northeastern University](https://www.northeastern.edu/), advised by [Prof. Kevin Fu](https://kevinfu.com/). Before that I received my master's degree from the Shandong University, working under the guidance of [Prof. Pengfei Hu](https://perfecthu.github.io/). I completed my B.E. degree at Shandong Normal University under the supervision of Prof. Hong Wang.
+I am a second-year Ph.D. student at the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/), [Northeastern University](https://www.northeastern.edu/), advised by [Prof. Kevin Fu](https://kevinfu.com/). Before that I received my master's degree from the Shandong University, working under the guidance of [Prof. Pengfei Hu](https://perfecthu.github.io/). I completed my B.E. degree at Shandong Normal University under the supervision of Prof. Hong Wang.
 
 My research interests primarily focus on the Cyber Physical System Security, exploring potential vulnerabilities and privacy leakage risks in sensors through side-channel analysis. My goal is to enhance the security and privacy of Cyber Physical Systems.
 
 
 ## Publications
 
-**RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection**  
-**Hui Zhuang**, Yan Long, Kevin Fu  
-*The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025).* 
+**Probing Challenges and Future Research of SBOM Generation for Medical Devices**  
+**Hui Zhuang**, Yan Long, Duyeong Kim, Jennifer R. Amos, Heejo Lee, Kevin Fu  
+*ACSAC Workshop of "Cybersecurity In Healthcare" (HealthSec) 2025.*   
+<!-- [[Paper](publication/zhuang-rf-eye-d-RAID-2025.pdf){:target="_blank"}]  -->
+
 
 ---
+
+
+**RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection**  
+**Hui Zhuang**, Yan Long, Kevin Fu  
+*The 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025).*  
+[[Paper](publication/zhuang-rf-eye-d-RAID-2025.pdf){:target="_blank"}] 
+
+
+---
+
 
 **WinSpy: Cross-window Side-channel Attacks on Android's Multi-window Mode**  
 Zeng Li, Chuan Yan, Liuhuo Wan, **Hui Zhuang**, Pengfei Hu, Guangdong Bai, Yiran Shen  
